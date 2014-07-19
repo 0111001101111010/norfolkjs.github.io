@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   max-width: 800px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 section {
@@ -316,4 +316,10 @@ hr {
 .api_container .sponsors img {
   margin: 10px;
   max-width: 300px;
+}
+
+/*Adding Media Queries for Responsiveness*/
+@media screen and (max-width: 800px)  {
+  body{
+  }
 }
