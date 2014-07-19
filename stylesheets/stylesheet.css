@@ -322,4 +322,7 @@ hr {
   .contacts{
     margin: 20px;
   }
+  #main_content {
+    margin: 20px;
+  }
 }
