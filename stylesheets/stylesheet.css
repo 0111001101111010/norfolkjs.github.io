@@ -319,6 +319,7 @@ hr {
 
 /*Adding Media Queries for Responsiveness*/
 @media screen and (max-width: 800px)  {
-  body{
+  .contacts{
+    margin: 20px;
   }
 }
